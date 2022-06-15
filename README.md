@@ -9,6 +9,7 @@ The project focus mainly on testing the methods Deepensemble, SWAG and multi- SW
 
 The code is split up after its names so that each method including a Baseline can be called by .... (sebs kalde metode)
 
+The Baseline also contains the cross validation and hyper parameters code.
 
 
 
