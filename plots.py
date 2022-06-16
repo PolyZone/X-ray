@@ -36,5 +36,5 @@ def plot_confusion_matrix(y_label, y_pred, title = "Confusion Matrix"):
     ax.set_title(title, fontsize = 20);
     ax.xaxis.set_ticklabels(['ELBOW', 'FINGER', 'FOREARM', 'HAND', 'HUMERUS', 'SHOULDER', 'WRIST'], fontsize = 12); ax.yaxis.set_ticklabels(['ELBOW', 'FINGER', 'FOREARM', 'HAND', 'HUMERUS', 'SHOULDER', 'WRIST'], fontsize = 12);
     return plt.show()
-
+# https://stackoverflow.com/questions/19233771/sklearn-plot-confusion-matrix-with-labels
 
