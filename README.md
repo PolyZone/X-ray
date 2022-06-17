@@ -1,7 +1,7 @@
 # X-ray
 
 
-This is a project made by Frederik Sartov Olsen(s), Sebastian Ray Mason(s) and Søren Nielsen (s205820)
+This is a project made by Frederik Sartov Olsen(s), Sebastian Ray Mason(s163849) and Søren Nielsen (s205820)
 The project is made for the 02466 Project work Bachelor of Artificial Intelligence and Data Spring 22
 
 #### Content
