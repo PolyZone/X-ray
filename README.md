@@ -11,6 +11,6 @@ The code is split up after its names so that each method including a Baseline ca
 
 
 
-# OBS: Models have been left out since they exceed limit
+#### OBS: Models have been left out since they exceed limit and we provide the temporary WeTransfer link to all models: https://we.tl/t-ekwUpRiZN9 (models should be downloaded, unzipped and place in the same folder as the code above in order to run experiments). 
 
 
