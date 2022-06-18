@@ -4,7 +4,6 @@ import warnings
 import torch
 import copy
 from torchvision import datasets, transforms
-from scipy.misc import face
 import matplotlib.pyplot as plt
 from torch.utils.data import DataLoader
 from collections import Counter
